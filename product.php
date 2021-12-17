@@ -44,7 +44,7 @@
             <option value="Kirsebær">Kirsebær</option>
             <option value="Mahoghi">Mahoghi</option>
         </select>
-        <button class="addToCart">Læg i kurv <i class="fa fa-fw fa-shopping-cart"></i></button>
+        <a href="./cart.php" class="addToCart">Læg i kurv <i class="fa fa-fw fa-shopping-cart"></i></a>
     </div>
 </body>
 </html>
