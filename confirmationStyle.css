@@ -1,0 +1,10 @@
+body{
+    background: #e6e6e5;
+}
+.order p{
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 50px;
+}
